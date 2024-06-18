@@ -58,6 +58,6 @@ Dzięki połączeniu zaawansowanych technik analizy danych z intuicyjnymi wizual
 
 Poniżej znajdują się moje certyfikaty zdobyte na Udemy:
 
-1. [110+ Ćwiczeń - Python + SQL (sqlite3) - Bazy Danych SQLite](certificates/Python_SQL_Exercises_Bazy_Danych_SQLite.pdf)
-2. [EssentialSQL: Stored Procedures Unpacked - Code in TSQL](certificates/Essential_SQL_Stored_Procedures_TSQL.pdf)
-3. [The Complete Oracle SQL Bootcamp (2024)](certificates/Complete_Oracle_SQL_Bootcamp_2024.pdf)
+1. [110+ Ćwiczeń - Python + SQL (sqlite3) - Bazy Danych SQLite](Python_SQL_Exercises_Bazy_Danych_SQLite.pdf)
+2. [EssentialSQL: Stored Procedures Unpacked - Code in TSQL](Essential_SQL_Stored_Procedures_TSQL.pdf)
+3. [The Complete Oracle SQL Bootcamp (2024)](Complete_Oracle_SQL_Bootcamp_2024.pdf)
